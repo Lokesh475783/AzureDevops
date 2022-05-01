@@ -1,0 +1,14 @@
+<html xmlns="www.w5.org/2022/xhtml">
+<head runat="server">
+	<title></title>
+</head>
+<body>
+	<form id="form1" runat="server">
+	<div>
+
+	<%Response. Write( "HeIIo World"); %>
+
+	</div>
+	</form>
+</body>
+</html>
